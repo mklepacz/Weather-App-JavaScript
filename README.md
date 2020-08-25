@@ -1,5 +1,5 @@
 # Weather aplication
-Simple weather application project wrote with using Java Script
+# Simple weather application project wrote with using Java Script
 
 ## Acknowledgments
 
